@@ -1,0 +1,16 @@
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\comp0705\source\repos\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\comp0705\source\repos\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
